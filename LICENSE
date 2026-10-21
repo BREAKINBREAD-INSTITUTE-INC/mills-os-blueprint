@@ -1,0 +1,11 @@
+This repository uses two licences.
+
+- Writing (everything in docs/, research/ and reference/, and this README):
+  Creative Commons Attribution 4.0 International (CC BY 4.0).
+  You may share and adapt it for any purpose, as long as you credit
+  "BREAKINBREAD INSTITUTE INC" and link to this repository. Full text: LICENSE-docs.
+
+- Code (any scripts, commands, config snippets or code blocks): MIT License.
+  Full text: LICENSE-code.
+
+Copyright (c) 2026 BREAKINBREAD INSTITUTE INC.
